@@ -1,108 +1,62 @@
-<!-- ========================= -->
-<!--        BANNER            -->
-<!-- ========================= -->
+# 🌐 Personal Portfolio Website
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80" alt="banner" />
-</p>
+Hi, I'm **Tanjiya** 👋  
+This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer.
 
-<h1 align="center">Hi, I'm Tanjiya 👋</h1>
-
-<p align="center">
-  <b>Frontend Developer • UI Enthusiast • Web Explorer</b>
-</p>
-
-<p align="center">
-  I build modern, responsive, and user-friendly web experiences.
-</p>
+🔗 Live Website: [Portfolio Website](https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/)
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT ME          -->
-<!-- ========================= -->
+## 🚀 About Me
 
-## ✨ About Me
-
-I am a passionate web developer focused on building clean, interactive, and modern websites.
-
-- 🌱 Currently learning **Next.js**
-- 🔭 Working on a **tourism website project**
-- 🎯 Interested in frontend development & UI/UX design
-- 🚀 Goal: Become a professional full-stack developer
+I am a passionate web developer focused on building responsive, user-friendly, and modern web applications.  
+I enjoy turning ideas into real-world projects using clean and efficient code.
 
 ---
-
-<!-- ========================= -->
-<!--        SKILLS            -->
-<!-- ========================= -->
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,git,github,vscode" />
-</p>
+- HTML
+- CSS
+- JavaScript
+- React (if used)
+- Next.js (if used)
+- Tailwind CSS (if used)
 
 ---
 
-<!-- ========================= -->
-<!--        SOCIAL LINKS      -->
-<!-- ========================= -->
+## 📂 Features
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://snapchat.com/add/your-id">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
-</a>
-
-<a href="https://www.tiktok.com/@your-id">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+- Responsive design (mobile-friendly)
+- Modern UI/UX design
+- Project showcase section
+- About me section
+- Contact information
 
 ---
 
-<!-- ========================= -->
-<!--        GITHUB STATS      -->
-<!-- ========================= -->
+## 📌 Projects
 
-## 📊 GitHub Stats
+Here are some of my highlighted projects:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+- Project 1 – Short description
+- Project 2 – Short description
+- Project 3 – Short description
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
+(Add GitHub or live links if available)
 
 ---
 
-<!-- ========================= -->
-<!--        QUOTE             -->
-<!-- ========================= -->
+## 📞 Contact
 
-<p align="center">
-  <i>"Consistency builds mastery."</i>
-</p>
+Feel free to reach out if you want to collaborate or hire me:
+
+- Email: tanjiya098@gmail.com
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/tanjiya/)
+- GitHub: [Github](https://github.com/tanjiyaJuthi)
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile
-</p>
+## 📖 License
+
+This project is open-source and free to use for learning purposes.
