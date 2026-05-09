@@ -1,45 +1,43 @@
-import { ImageResponse } from 'next/og'
+import { ImageResponse } from "next/og";
 
 // Route segment config
-export const runtime = 'edge'
+// export const runtime = 'edge'
 
 // Image metadata
 export const size = {
   width: 32,
   height: 32,
-}
-export const contentType = 'image/png'
+};
+export const contentType = "image/png";
 
 // Image generation
 export default function Icon() {
   return new ImageResponse(
-    (
-      // ImageResponse JSX element
-      <div
-        style={{
-          fontSize: 18,
-          background: '#0f131e',
-          width: '100%',
-          height: '100%',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          color: '#ffb4a3',
-          borderRadius: '8px',
-          border: '1px solid rgba(255, 180, 163, 0.3)',
-          fontWeight: 900,
-          fontFamily: 'sans-serif',
-          letterSpacing: '-1px',
-        }}
-      >
-        tj
-      </div>
-    ),
+    // ImageResponse JSX element
+    <div
+      style={{
+        fontSize: 18,
+        background: "#0f131e",
+        width: "100%",
+        height: "100%",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        color: "#ffb4a3",
+        borderRadius: "8px",
+        border: "1px solid rgba(255, 180, 163, 0.3)",
+        fontWeight: 900,
+        fontFamily: "sans-serif",
+        letterSpacing: "-1px",
+      }}
+    >
+      tj
+    </div>,
     // ImageResponse options
     {
       // For convenience, we can re-use the exported icons size metadata
       // config to also set the ImageResponse's width and height.
       ...size,
-    }
-  )
+    },
+  );
 }
