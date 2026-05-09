@@ -1,65 +1,36 @@
-# 🌐 Tanjiya — Personal Portfolio Website
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Hi, I'm **Tanjiya** 👋  
-A passionate **Frontend Web Developer** focused on building modern, responsive, and user-friendly web experiences.
+## Getting Started
 
-🔗 **Live Website:** https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## ✨ About Me
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-I enjoy transforming ideas into clean, functional, and visually appealing web applications.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- 💡 Passionate about frontend development & UI design  
-- 🚀 Currently improving my skills in modern web technologies  
-- 🎯 Focused on writing clean, maintainable, and efficient code  
-- 🌱 Always learning and exploring new tools and frameworks  
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-## 🛠️ Tech Stack
+To learn more about Next.js, take a look at the following resources:
 
-**Frontend & Styling**  
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS  
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-**Tools & Workflow**  
-Git • GitHub • VS Code • Vercel  
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-## 📌 Key Features
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- 📱 Fully responsive design (mobile-first approach)  
-- 🎨 Clean and modern UI/UX  
-- 🧩 Structured project showcase section  
-- 👩‍💻 Developer-focused personal branding  
-- 📬 Easy contact integration  
-
----
-
-## 📁 Featured Projects
-
-A selection of my work:
-
-- **Project One** – Brief description of functionality and purpose  
-- **Project Two** – Brief description of functionality and purpose  
-- **Project Three** – Brief description of functionality and purpose  
-
-> More projects available on my GitHub profile.
-
----
-
-## 📬 Contact Me
-
-I’m open to collaboration, freelance work, or full-time opportunities.
-
-- 📧 Email: **tanjiya098@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/tanjiya/  
-- 🐙 GitHub: https://github.com/tanjiyaJuthi  
-
----
-
-## 📄 License
-
-This project is open for learning and personal use.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
