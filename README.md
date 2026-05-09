@@ -1,62 +1,60 @@
-# 🌐 Personal Portfolio Website
+<!-- ===== Banner ===== -->
+![Banner](https://your-banner-image-link.com/banner.png)
 
-Hi, I'm **Tanjiya** 👋  
-This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer.
-
-🔗 Live Website: [Portfolio Website](https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/)
-
----
-
-## 🚀 About Me
-
-I am a passionate web developer focused on building responsive, user-friendly, and modern web applications.  
-I enjoy turning ideas into real-world projects using clean and efficient code.
+# Hi, I'm Tanjiya 👋  
+### 💻 Web Developer | Frontend Enthusiast | Learner
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-- HTML
-- CSS
-- JavaScript
-- React (if used)
-- Next.js (if used)
-- Tailwind CSS (if used)
+I am a passionate web developer who enjoys building modern, responsive, and user-friendly web applications.  
+I love turning ideas into real-world projects using clean and efficient code.
 
----
-
-## 📂 Features
-
-- Responsive design (mobile-friendly)
-- Modern UI/UX design
-- Project showcase section
-- About me section
-- Contact information
+- 🌱 I’m currently exploring **Next.js**
+- 🔭 I’m working on a **tourism website project**
+- 💡 I enjoy learning new web technologies
+- 🎯 Goal: Become a full-stack developer
 
 ---
 
-## 📌 Projects
+## ⚒️ Skills
 
-Here are some of my highlighted projects:
+<p align="left">
 
-- Project 1 – Short description
-- Project 2 – Short description
-- Project 3 – Short description
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
 
-(Add GitHub or live links if available)
+</p>
 
 ---
 
-## 📞 Contact
+## 🌐 Social Links
 
-Feel free to reach out if you want to collaborate or hire me:
-
-- Email: tanjiya098@gmail.com    
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/tanjiya/)  
-- GitHub: [Github](https://github.com/tanjiyaJuthi)
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📸 Snapchat: https://snapchat.com/add/your-id  
+- 🎵 TikTok: https://tiktok.com/@your-id  
+- 🌐 Portfolio: https://your-portfolio-link.com  
 
 ---
 
-## 📖 License
+## 📊 GitHub Stats
 
-This project is open-source and free to use for learning purposes.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🚀 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+---
+
+## ✨ Fun Fact
+
+> “I believe consistency is more important than perfection.”
+
+---
+
+⭐ Thanks for visiting my profile!
