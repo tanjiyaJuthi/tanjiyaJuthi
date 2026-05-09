@@ -15,7 +15,7 @@ const Contact = () => {
     // Using Web3Forms for more reliable AJAX submission
     // They can get their own key at web3forms.com, using a placeholder for now.
     // NOTE: For Web3Forms, you can actually use your email directly in some cases or a temporary key.
-    formData.append("access_key", "51c9117d-2b4a-493f-8086-72f5f147a274"); // This is a public test key or they should replace it.
+    formData.append("access_key", "c8d4a58b-b96e-49e9-b775-dea9b1e63a92"); // This is a public test key or they should replace it.
     formData.append("subject", "New Message from Portfolio");
     formData.append("from_name", "Portfolio Visitor");
 
