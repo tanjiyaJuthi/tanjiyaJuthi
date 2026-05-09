@@ -1,62 +1,65 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Tanjiya — Personal Portfolio Website
 
 Hi, I'm **Tanjiya** 👋  
-This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer.
+A passionate **Frontend Web Developer** focused on building modern, responsive, and user-friendly web experiences.
 
-🔗 Live Website: [Portfolio Website](https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/)
+🔗 **Live Website:** https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-I am a passionate web developer focused on building responsive, user-friendly, and modern web applications.  
-I enjoy turning ideas into real-world projects using clean and efficient code.
+I enjoy transforming ideas into clean, functional, and visually appealing web applications.
+
+- 💡 Passionate about frontend development & UI design  
+- 🚀 Currently improving my skills in modern web technologies  
+- 🎯 Focused on writing clean, maintainable, and efficient code  
+- 🌱 Always learning and exploring new tools and frameworks  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React (if used)
-- Next.js (if used)
-- Tailwind CSS (if used)
+**Frontend & Styling**  
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS  
+
+**Tools & Workflow**  
+Git • GitHub • VS Code • Vercel  
 
 ---
 
-## 📂 Features
+## 📌 Key Features
 
-- Responsive design (mobile-friendly)
-- Modern UI/UX design
-- Project showcase section
-- About me section
-- Contact information
-
----
-
-## 📌 Projects
-
-Here are some of my highlighted projects:
-
-- Project 1 – Short description
-- Project 2 – Short description
-- Project 3 – Short description
-
-(Add GitHub or live links if available)
+- 📱 Fully responsive design (mobile-first approach)  
+- 🎨 Clean and modern UI/UX  
+- 🧩 Structured project showcase section  
+- 👩‍💻 Developer-focused personal branding  
+- 📬 Easy contact integration  
 
 ---
 
-## 📞 Contact
+## 📁 Featured Projects
 
-Feel free to reach out if you want to collaborate or hire me:
+A selection of my work:
 
-- Email: tanjiya098@gmail.com
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/tanjiya/)
-- GitHub: [Github](https://github.com/tanjiyaJuthi)
+- **Project One** – Brief description of functionality and purpose  
+- **Project Two** – Brief description of functionality and purpose  
+- **Project Three** – Brief description of functionality and purpose  
+
+> More projects available on my GitHub profile.
 
 ---
 
-## 📖 License
+## 📬 Contact Me
 
-This project is open-source and free to use for learning purposes.
+I’m open to collaboration, freelance work, or full-time opportunities.
+
+- 📧 Email: **tanjiya098@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/tanjiya/  
+- 🐙 GitHub: https://github.com/tanjiyaJuthi  
+
+---
+
+## 📄 License
+
+This project is open for learning and personal use.
