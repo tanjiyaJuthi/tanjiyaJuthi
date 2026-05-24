@@ -1,37 +1,36 @@
 # 🌐 Personal Portfolio Website
 
-Hi, I'm **Tanjiya** 👋  
-This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer.
+Hi, I'm **Tanjiya Zahir Bhuiyan** 👋  
+This is my personal portfolio website where I showcase my skills, projects, and experience as a developer.
 
-🔗 Live Website: [Portfolio Website](https://tanjiya-cb3he63zd-tanjiyajuthis-projects.vercel.app/)
+🔗 Live Website: [Portfolio Website](https://tanjiya.vercel.app)
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate web developer focused on building responsive, user-friendly, and modern web applications.  
-I enjoy turning ideas into real-world projects using clean and efficient code.
+I am living my long lost dream of coding! I’m a developer who enjoys transforming ideas into interactive digital experiences through clean, scalable, and efficient code. Beyond coding, I enjoy cooking for my family and spending time in my small kitchen garden 🌿 Currently focused on building full-stack applications using modern JavaScript technologies and continuously improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React (if used)
-- Next.js (if used)
-- Tailwind CSS (if used)
+- Frontend
+  -- React.js
+  -- Next.js
+  -- Tailwind CSS
+  -- JavaScript (ES6+)
 
----
+- Backend
+  -- Node.js
+  -- Express.js
 
-## 📂 Features
+- Database
+  -- MongoDB
 
-- Responsive design (mobile-friendly)
-- Modern UI/UX design
-- Project showcase section
-- About me section
-- Contact information
+- Tools & Platforms
+  -- Git & GitHub
+  -- Firebase
 
 ---
 
@@ -39,12 +38,12 @@ I enjoy turning ideas into real-world projects using clean and efficient code.
 
 Here are some of my highlighted projects:
 
-- Project 1 – [Tiles House](https://tiles-house.vercel.app/)
-- Project 2 – [Music Journal](https://github.com/tanjiyaJuthi/music-journal)
-- Project 3 – [Techwave](https://tech-wave-navy.vercel.app/)
-
-(Add GitHub or live links if available)
-
+- Project 1 – [Ideonexis](https://ideonexis.vercel.app)
+- Project 2 – [CloudTrail](https://cloud-trail.vercel.app/)
+- Project 3 – [Tiles House](https://tiles-house.vercel.app/)
+- Project 4 – [Music Journal](https://github.com/tanjiyaJuthi/music-journal)
+- Project 5 – [Techwave](https://tech-wave-navy.vercel.app/)
+  
 ---
 
 ## 📞 Contact
