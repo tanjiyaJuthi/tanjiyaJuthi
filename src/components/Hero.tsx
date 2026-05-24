@@ -104,7 +104,7 @@ const Hero = () => {
               <Image 
                 alt="Tanjiya Zahir Bhuiyan"
                 className="w-full h-full object-contain rounded-lg grayscale hover:grayscale-0 transition-all duration-1000"
-                src="/assets/tanjiya.jpeg"
+                src="/assets/fallback.jpg"
                 width={400}
                 height={500}
                 priority
