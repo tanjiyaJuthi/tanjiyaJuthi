@@ -70,7 +70,8 @@ const Hero = () => {
             <motion.a 
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.98 }}
-              href="#"
+              download
+              href="/cv/tanjiya.pdf"
               className="primary-btn-gradient px-6 py-4 md:px-lg md:py-md rounded-xl font-h3 text-white text-center shadow-lg shadow-primary/20"
             >
               DOWNLOAD_RESUME
@@ -103,7 +104,7 @@ const Hero = () => {
               <Image 
                 alt="Tanjiya Zahir Bhuiyan"
                 className="w-full h-full object-contain rounded-lg grayscale hover:grayscale-0 transition-all duration-1000"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAfvpObnEo8jZVVIjqFerW4SKi_ogrJ0-4S5ZsexBCw2eIhsUQKURVNHUePeL5S1fFIzNO4lOfo3lVn6TWzout2fCaGpC1mPd2VCTtNmSmwYHeVen3Pt-fN-sCZEc8F8wT7RfK-OoHlj2ayHroNsGsSjAcpmraepVLKC_U4G9_oPq6xwMQ1vfxXZXscrnp7CYu5cpmLysW_xVa7eyxA0LnlaEMiPmBwe7mnU6olOiEqQuAD5Z3Aq-apkjEvc-_pAI6dDPCxIPSUFL6u"
+                src="/assets/tanjiya.jpeg"
                 width={400}
                 height={500}
                 priority
