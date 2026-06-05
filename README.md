@@ -80,12 +80,22 @@
 
 ## 📌 Projects
 
-| Project                                                      | Tech Stack                                                   | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Ideonexis](https://ideonexis.vercel.app)                    | Next.js, Express.js, MongoDB, BetterAuth                     | Idea Sharing Platform                                        |
-| [CloudTrail](https://cloud-trail.vercel.app/)                | Next.js, Express.js, MongoDB, BetterAuth                     | Booking Destination App                                      |
-| [Tiles House](https://tiles-house.vercel.app/)               | Next.js, Express.js, MongoDB, BetterAuth                     | Tiles Selling Web App                                        |
-| [Music Journal](https://music-journaling.vercel.app/)        | Next.js, Express.js, MongoDB, BetterAuth                     | Journal By Music                                             |
+| Project                                               | Tech Stack                               | Description             |
+| ----------------------------------------------------- | ---------------------------------------- | ----------------------- |
+| [Ideonexis](https://ideonexis.vercel.app)             | Next.js, Express.js, MongoDB, BetterAuth | Idea Sharing Platform   |
+| [CloudTrail](https://cloud-trail.vercel.app/)         | Next.js, Express.js, MongoDB, BetterAuth | Booking Destination App |
+| [Tiles House](https://tiles-house.vercel.app/)        | Next.js, Express.js, MongoDB, BetterAuth | Tiles Selling Web App   |
+| [Music Journal](https://music-journaling.vercel.app/) | Next.js, Express.js, MongoDB, BetterAuth | Journal By Music        |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tanjiyaJuthi/tanjiyaJuthi/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
@@ -98,6 +108,7 @@
 </div>
 
 ---
+
 ## 📞 Contact
 
 <div>
@@ -109,4 +120,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </div>
-
