@@ -72,29 +72,47 @@
 ---
 
 ## 📌 Projects
-
-| Project                                               | Tech Stack                               | Description             |
-| ----------------------------------------------------- | ---------------------------------------- | ----------------------- |
-| [Ideonexis](https://ideonexis.vercel.app)             | Next.js, Express.js, MongoDB, BetterAuth | Idea Sharing Platform   |
-| [CloudTrail](https://cloud-trail.vercel.app/)         | Next.js, Express.js, MongoDB, BetterAuth | Booking Destination App |
-| [Tiles House](https://tiles-house.vercel.app/)        | Next.js, Express.js, MongoDB, BetterAuth | Tiles Selling Web App   |
-| [Music Journal](https://music-journaling.vercel.app/) | Next.js, Express.js, MongoDB, BetterAuth | Journal By Music        |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ideonexis.vercel.app">Ideonexis</a></td>
+      <td>Next.js, Express.js, MongoDB, BetterAuth</td>
+      <td>Idea Sharing Platform</td>
+    </tr>
+    <tr>
+      <td><a href="https://cloud-trail.vercel.app">CloudTrail</a></td>
+      <td>Next.js, Express.js, MongoDB, BetterAuth</td>
+      <td>Booking Destination App</td>
+    </tr>
+    <tr>
+      <td><a href="https://tiles-house.vercel.app">Tiles House</a></td>
+      <td>Next.js, Express.js, MongoDB, BetterAuth</td>
+      <td>Tiles Selling Web App</td>
+    </tr>
+    <tr>
+      <td><a href="https://music-journaling.vercel.app">Music Journal</a></td>
+      <td>Next.js, Express.js, MongoDB, BetterAuth</td>
+      <td>Journal By Music</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🌍 Portfolio
+## 🌍 Contact
 
 <div>
   <a href="https://tanjiya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
   </a>
-</div>
 
----
-
-## 📞 Contact
-
-<div>
   <a href="mailto:tanjiya098@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
