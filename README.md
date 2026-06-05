@@ -17,33 +17,25 @@
 
 <div>
 
-### 💻 Languages
+## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### 💻 Core Technologies
 
-### 🌐 Frontend
+| Category  | Skills                                                                                                                                                                                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)                                                                          |
+| Frontend  | ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css) |
+| Backend   | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square\&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square\&logo=express)                                                                                                            |
+| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql)                                                                                                                        |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+### 🔧 Tools & Platforms
 
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+| Category        | Skills                                                                                                                                                           |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github) |
+| Development     | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=visual-studio-code\&logoColor=white)                                              |
+| Deployment      | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)                                                                             |
+| Authentication  | BetterAuth                                                                                                                                                       |
 
 </div>
 
@@ -57,11 +49,6 @@
 | [CloudTrail](https://cloud-trail.vercel.app/)                | Next.js, Express.js, MongoDB, BetterAuth                     | Booking Destination App                                      |
 | [Tiles House](https://tiles-house.vercel.app/)               | Next.js, Express.js, MongoDB, BetterAuth                     | Tiles Selling Web App                                        |
 | [Music Journal](https://music-journaling.vercel.app/)        | Next.js, Express.js, MongoDB, BetterAuth                     | Journal By Music                                             |
-
-- Project 1 – [Ideonexis](https://ideonexis.vercel.app)
-- Project 2 – [CloudTrail](https://cloud-trail.vercel.app/)
-- Project 3 – [Tiles House](https://tiles-house.vercel.app/)
-- Project 4 – [Music Journal](https://music-journaling.vercel.app/)
 
 ---
 
