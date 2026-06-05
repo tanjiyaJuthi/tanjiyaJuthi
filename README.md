@@ -31,20 +31,29 @@
 
 <h3>💻 Languages</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 </td>
+
 <td valign="top">
 
 <h3>🌐 Frontend</h3>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-<br>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"><br>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css">
+
+</td>
+
+<td rowspan="2" valign="top">
+
+<h3>🔧 Tools & Platforms</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"><br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github"><br>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel">
 
 </td>
 </tr>
@@ -54,28 +63,17 @@
 
 <h3>⚙️ Backend</h3>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-<br>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"><br>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express">
 
 </td>
+
 <td valign="top">
 
 <h3>🗄️ Databases</h3>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-<br>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql" />
-
-</td>
-<td colspan="2" rowspan="2" valign="top">
-
-<h3>🔧 Tools & Platforms</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"><br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql">
 
 </td>
 </tr>
