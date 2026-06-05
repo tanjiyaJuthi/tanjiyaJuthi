@@ -36,16 +36,6 @@
 
 </td>
 
-<td rowspan="2" valign="top">
-
-<h3>🔧 Tools & Platforms</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"><br>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github"><br>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel">
-
-</td>
 <td>
 
 <h3>⚙️ Backend</h3>
@@ -61,6 +51,16 @@
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"><br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql">
+
+</td>
+<td rowspan="2" valign="top">
+
+<h3>🔧 Tools & Platforms</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"><br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github"><br>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel">
 
 </td>
 </tr>
