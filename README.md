@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql">
 
 </td>
-<td rowspan="2" valign="top">
+<td valign="top">
 
 <h3>🔧 Tools & Platforms</h3>
 
@@ -100,6 +100,14 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanjiyaJuthi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
