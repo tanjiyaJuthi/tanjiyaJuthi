@@ -1,6 +1,6 @@
 # <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/tanjiyaJuthi/tanjiyaJuthi/blob/main/public/assets/tanjiya_github_banner.jpg" />
 
-# 🌐 [Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app)
+# 🌐 [Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app) ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
 
 ---
 
