@@ -1,3 +1,5 @@
+# <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/tanjiyaJuthi/tanjiyaJuthi/blob/main/public/assets/tanjiya_github_banner.jpg" />
+
 # 🌐 Tanjiya Zahir Bhuiyan
 
 Hi, welcome to my Github! Here, I showcase my loveable projects as a developer.
@@ -54,8 +56,3 @@ Feel free to reach out if you want to collaborate or hire me:
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/tanjiya/)
 - GitHub: [Github](https://github.com/tanjiyaJuthi)
 
----
-
-## 📖 License
-
-[Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app)
