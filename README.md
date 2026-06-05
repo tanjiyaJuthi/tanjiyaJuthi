@@ -103,10 +103,9 @@
 
 ---
 
-## 🔥 GitHub Streak & Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjiyaJuthi&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=tanjiyaJuthi&theme=transparent&hide_border=true" />
 </p>
 
