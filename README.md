@@ -106,7 +106,7 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjiyaJuthi&show_icons=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjiyaJuthi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=tanjiyaJuthi&theme=transparent&hide_border=true" />
 </p>
 
