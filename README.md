@@ -1,9 +1,19 @@
 # <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/tanjiyaJuthi/tanjiyaJuthi/blob/main/public/assets/tanjiya_github_banner.jpg" />
 
-# <div>🌐 [Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app) <p align="left">
+<table>
+<tr>
+<td>
 
-  <img src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" />
-</p></div>
+# 🌐 [Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app)
+
+</td>
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -15,71 +25,66 @@
 - Yes, one more thing! My interest runs between Full Stack Development, Database Design, System Design and Open Source.
 
 ---
+<table>
+<tr>
+<td valign="top">
 
-<div>
+<h3>💻 Languages</h3>
 
-## 🛠️ Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+</td>
+<td valign="top">
 
-<!-- Languages -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
+<h3>🌐 Frontend</h3>
 
-### 💻 Languages
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+<br>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</td>
+</tr>
 
-</div>
+<tr>
+<td valign="top">
 
-<!-- Frontend -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
+<h3>⚙️ Backend</h3>
 
-### 🌐 Frontend
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
+<br>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+</td>
+<td valign="top">
 
-</div>
+<h3>🗄️ Databases</h3>
 
-<!-- Backend -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+<br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql" />
 
-### ⚙️ Backend
+</td>
+</tr>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
+<tr>
+<td colspan="2" valign="top">
 
-</div>
+<h3>🔧 Tools & Platforms</h3>
 
-<!-- Databases -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
 
-### 🗄️ Databases
+</td>
+</tr>
+</table>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
-
-</div>
-
-<!-- Tools -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-
-</div>
-
-</div>
-
-</div>
-
----
+--- 
 
 ## 📌 Projects
 
