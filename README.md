@@ -46,9 +46,6 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel">
 
 </td>
-</tr>
-
-<tr>
 <td>
 
 <h3>⚙️ Backend</h3>
