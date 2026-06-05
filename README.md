@@ -13,7 +13,7 @@
 
 ---
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 <table>
 <tr>
@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-<td valign="top">
+<td>
 
 <h3>⚙️ Backend</h3>
 
@@ -58,7 +58,7 @@
 
 </td>
 
-<td valign="top">
+<td>
 
 <h3>🗄️ Databases</h3>
 
