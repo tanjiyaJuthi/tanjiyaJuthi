@@ -19,23 +19,37 @@
 
 ## 🛠️ Skills
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+<!-- LEFT TABLE -->
+<div>
+
 ### 💻 Core Technologies
 
-| Category  | Skills                                                                                                                                                                                                                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)                                                                          |
-| Frontend  | ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css) |
-| Backend   | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square\&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square\&logo=express)                                                                                                            |
-| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql)                                                                                                                        |
+| Category  | Skills |
+| --------- | ------ |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?style=flat-square&logo=javascript&logoColor=black) |
+| Frontend  | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) |
+| Backend   | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express) |
+| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql) |
+
+</div>
+
+<!-- RIGHT TABLE -->
+<div>
 
 ### 🔧 Tools & Platforms
 
-| Category        | Skills                                                                                                                                                           |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github) |
-| Development     | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=visual-studio-code\&logoColor=white)                                              |
-| Deployment      | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)                                                                             |
-| Authentication  | BetterAuth                                                                                                                                                       |
+| Category        | Skills |
+| --------------- | ------ |
+| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github) |
+| Development     | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| Deployment      | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) |
+| Authentication  | BetterAuth |
+
+</div>
+
+</div>
 
 </div>
 
