@@ -22,9 +22,9 @@ jobs:
           github_user_name: tanjiyaJuthi
           outputs: dist/snake.svg dist/snake-dark.svg
 
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          commit_message: "Generate snake animation"
-          branch: output
-          file_pattern: dist/*.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
