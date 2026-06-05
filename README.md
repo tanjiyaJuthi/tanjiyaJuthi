@@ -106,7 +106,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanjiyaJuthi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjiyaJuthi&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=tanjiyaJuthi&theme=transparent&hide_border=true" />
 </p>
 
 ---
