@@ -1,13 +1,6 @@
 # <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/tanjiyaJuthi/tanjiyaJuthi/blob/main/public/assets/tanjiya_github_banner.jpg" />
 
-<table >
-<tr>
-<td>
-
-# <h1>
-  🌐 <a href="https://tanjiya.vercel.app">Tanjiya Zahir Bhuiyan</a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" />
-</h1>
+# <h1>🌐 <a href="https://tanjiya.vercel.app">Tanjiya Zahir Bhuiyan</a><img align="right" src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" /></h1>
 
 ---
 
