@@ -89,7 +89,7 @@
 
 ---
 
-# 🌍 Portfolio
+## 🌍 Portfolio
 
 <div>
   <a href="https://tanjiya.vercel.app/">
