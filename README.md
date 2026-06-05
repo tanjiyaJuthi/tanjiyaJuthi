@@ -13,8 +13,6 @@
 
 ---
 
-## 🛠️ Skills
-
 <div>
 
 ## 🛠️ Skills
