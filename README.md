@@ -1,19 +1,13 @@
 # <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/tanjiyaJuthi/tanjiyaJuthi/blob/main/public/assets/tanjiya_github_banner.jpg" />
 
-<table>
+<table >
 <tr>
 <td>
 
-# 🌐 [Tanjiya Zahir Bhuiyan](https://tanjiya.vercel.app)
-
-</td>
-<td align="right">
-
-<img src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" />
-
-</td>
-</tr>
-</table>
+# <h1>
+  🌐 <a href="https://tanjiya.vercel.app">Tanjiya Zahir Bhuiyan</a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=tanjiyaJuthi&style=flat-square&color=blueviolet" />
+</h1>
 
 ---
 
@@ -25,6 +19,9 @@
 - Yes, one more thing! My interest runs between Full Stack Development, Database Design, System Design and Open Source.
 
 ---
+
+# 🛠️ Skills
+
 <table>
 <tr>
 <td valign="top">
@@ -79,7 +76,7 @@
 </tr>
 </table>
 
---- 
+---
 
 ## 📌 Projects
 
