@@ -68,9 +68,6 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql" />
 
 </td>
-</tr>
-
-<tr>
 <td colspan="2" valign="top">
 
 <h3>🔧 Tools & Platforms</h3>
